@@ -1,0 +1,12 @@
+﻿  Card.cpp
+  Deck.cpp
+C:\Users\MSI\Documents\itgex\IT-GEX\sem3\algo c++\Assignment 2\JacksOrBetter\Deck.cpp(9,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\MSI\Documents\itgex\IT-GEX\sem3\algo c++\Assignment 2\JacksOrBetter\Deck.cpp(29,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Game.cpp
+  Hand.cpp
+C:\Users\MSI\Documents\itgex\IT-GEX\sem3\algo c++\Assignment 2\JacksOrBetter\Hand.cpp(31,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+  VideoPoker.cpp
+  Generating Code...
+C:\Users\MSI\Documents\itgex\IT-GEX\sem3\algo c++\Assignment 2\JacksOrBetter\Hand.cpp(57): warning C4715: 'Hand::isJacksOrBetter': not all control paths return a value
+  JacksOrBetter.vcxproj -> C:\Users\MSI\Documents\itgex\IT-GEX\sem3\algo c++\Assignment 2\JacksOrBetter\x64\Debug\JacksOrBetter.exe
